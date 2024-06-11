@@ -1,4 +1,4 @@
 # Olá, Mundo
- Primeiro repositório do curso Git e GitHub
+ Primeiro repositório do curso **Git e GitHub**
 
-Essa linha foi alterada diretamente no site!
+Essa linha foi alterada diretamente no *site*!!!
